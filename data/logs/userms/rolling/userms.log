@@ -1,0 +1,21 @@
+2024-10-03 12:44:36.577 [restartedMain] INFO   com.erp.userms.UsermsApplication - Starting UsermsApplication using Java 17.0.12 on LAPTOP-I9TJPI8L with PID 27620 (D:\Company Projects\user-management\userservice\build\classes\java\main started by Srinivasan in D:\Company Projects\user-management)
+2024-10-03 12:44:36.580 [restartedMain] DEBUG  com.erp.userms.UsermsApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-10-03 12:44:36.580 [restartedMain] INFO   com.erp.userms.UsermsApplication - The following profiles are active: localserver
+2024-10-03 12:47:04.317 [restartedMain] INFO   com.erp.userms.UsermsApplication - Starting UsermsApplication using Java 17.0.12 on LAPTOP-I9TJPI8L with PID 31612 (D:\Company Projects\user-management\userservice\build\classes\java\main started by Srinivasan in D:\Company Projects\user-management)
+2024-10-03 12:47:04.320 [restartedMain] DEBUG  com.erp.userms.UsermsApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-10-03 12:47:04.320 [restartedMain] INFO   com.erp.userms.UsermsApplication - The following profiles are active: localserver
+2024-10-03 12:47:09.871 [restartedMain] DEBUG  com.erp.userms.security.HttpFilter - Filter 'httpFilter' configured for use
+2024-10-03 12:47:11.289 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - AuthenticationManagerBuilder configured.
+2024-10-03 12:47:11.340 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - HTTP Security configured.
+2024-10-03 12:47:11.341 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - WebSecurity configuration for ignoring paths set up.
+2024-10-03 12:48:05.053 [restartedMain] INFO   com.erp.userms.UsermsApplication - Starting UsermsApplication using Java 17.0.12 on LAPTOP-I9TJPI8L with PID 27972 (D:\Company Projects\user-management\userservice\build\classes\java\main started by Srinivasan in D:\Company Projects\user-management)
+2024-10-03 12:48:05.053 [restartedMain] DEBUG  com.erp.userms.UsermsApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-10-03 12:48:05.053 [restartedMain] INFO   com.erp.userms.UsermsApplication - The following profiles are active: localserver
+2024-10-03 12:48:09.203 [restartedMain] DEBUG  com.erp.userms.security.HttpFilter - Filter 'httpFilter' configured for use
+2024-10-03 12:48:10.263 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - AuthenticationManagerBuilder configured.
+2024-10-03 12:48:10.308 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - HTTP Security configured.
+2024-10-03 12:48:10.308 [restartedMain] INFO   com.erp.userms.configurations.WebSecurityConfig - WebSecurity configuration for ignoring paths set up.
+2024-10-03 13:14:27.767 [restartedMain] INFO   com.erp.userms.UsermsApplication - Starting UsermsApplication using Java 17.0.12 on LAPTOP-I9TJPI8L with PID 20856 (D:\Company Projects\user-management\userservice\build\classes\java\main started by Srinivasan in D:\Company Projects\user-management)
+2024-10-03 13:14:27.772 [restartedMain] DEBUG  com.erp.userms.UsermsApplication - Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-10-03 13:14:27.772 [restartedMain] INFO   com.erp.userms.UsermsApplication - The following profiles are active: localserver
+2024-10-03 13:14:32.788 [restartedMain] DEBUG  com.erp.userms.security.HttpFilter - Filter 'httpFilter' configured for use
